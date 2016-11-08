@@ -1,0 +1,5 @@
+# Allow crawling of all content
+User-agent: *
+User-agent: Googlebot
+User-agent: Googlebot-Mobile
+User-agent: Twitterbot
