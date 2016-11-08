@@ -29,3 +29,8 @@
  * --/The Heart of Build + Test System/-- of "Seed-Build-System®".
  * ____________________________________________________________________
  */
+
+
+// # Usage: $ node -v
+// # Usage: $ npm -v
+// # Usage: $ grunt -version
