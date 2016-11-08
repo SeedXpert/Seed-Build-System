@@ -1,0 +1,12 @@
+# humanstxt.org/.
+# ^^^^^^^^^^^^^^^∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+# The humans responsible & technology colophon:
+# ---------------------------------------------
+# TEAM:                                                             |
+#  |∞∞∞ Concept + Design + Architecture + Usability + Development --|
+#  |••• Funding + Infrastructure                                    |
+#               |- Sequømics Corporation - http://sequomics.com/    |
+#                  Prabhat Kumar - http://prabhatkumar.org/---------|
+# TECHNOLOGY:                                                       |
+#  |∞∞∞ HTML + Sass + CSS + JavaScript + Grunt/Node.js              |
+#  |••• Sublime Text & Mac OSX
